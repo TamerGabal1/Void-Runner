@@ -1,0 +1,20 @@
+helper/Constants.java
+ helper.Constants
+helper/BodyHelperService.java
+ helper.BodyHelperService
+com/mygdx/game/DesktopLauncher.java
+ com.mygdx.game.DesktopLauncher
+objects/player/Player.java
+ objects.player.Player
+objects/player/GameEntity.java
+ objects.player.GameEntity
+helper/Requirements.java
+ helper.Requirements
+com/mygdx/game/MyGdxGame.java
+ com.mygdx.game.MyGdxGame
+objects/player/Zone.java
+ objects.player.Zone
+com/mygdx/game/GameScreen.java
+ com.mygdx.game.GameScreen
+helper/TileMapHelper.java
+ helper.TileMapHelper
